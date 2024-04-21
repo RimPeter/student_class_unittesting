@@ -28,3 +28,5 @@ class Student:
     def apply_extension(self, days):
         self.end_date = self.end_date + timedelta(days=days)
     
+    
+        
